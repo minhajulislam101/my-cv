@@ -1,5 +1,6 @@
 my personal portfolio using html and css 
 You just need html and css on your computer 
+Preview Availble : https://minhajulislam101.github.io/my-cv-html-css/
 
 ##### Preview #####
 
